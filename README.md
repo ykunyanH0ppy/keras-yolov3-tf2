@@ -17,6 +17,9 @@ https://bit.ly/39rLNoE
 
 Download backend.h5 and put it at folder keras-yolov3
 
+## Training data
+Uzip the dataset.zip at folder keras-yolov3
+
 ## Training
 
 `python train.py -c config.json`
