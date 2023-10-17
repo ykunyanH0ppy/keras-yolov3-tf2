@@ -6,7 +6,6 @@ To install the dependencies, run
 ```bash
 pip install -r requirements.txt
 ```
-And for the GPU to work, make sure you've got the drivers installed beforehand (CUDA).
 
 
 ## PreTraining Model 
