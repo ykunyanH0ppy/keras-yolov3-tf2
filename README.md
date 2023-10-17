@@ -8,7 +8,6 @@ pip install -r requirements.txt
 ```
 And for the GPU to work, make sure you've got the drivers installed beforehand (CUDA).
 
-It has been tested to work with Python 3.8 and Tensorflow-macos 2.9.0 and tensorflow-metal 0.5.0
 
 ## PreTraining Model 
 
