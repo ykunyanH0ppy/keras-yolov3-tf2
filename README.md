@@ -2,7 +2,7 @@
 
 ## Installing
 
-To install the dependencies, run
+To install the dependencies, run python3.9
 ```bash
 pip install -r requirements.txt
 ```
